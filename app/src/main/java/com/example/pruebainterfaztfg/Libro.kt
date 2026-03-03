@@ -1,7 +1,7 @@
-package com.example.pruebainterfaztfg
+﻿package com.example.validationinterfaztfg
 
-import com.example.pruebainterfaztfg.models.LibroAPI
-import com.example.pruebainterfaztfg.models.TipoVistaLibro
+import com.example.validationinterfaztfg.models.LibroAPI
+import com.example.validationinterfaztfg.models.TipoVistaLibro
 
 data class Libro(
     val id: String,

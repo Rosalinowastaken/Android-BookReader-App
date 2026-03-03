@@ -1,4 +1,4 @@
-package com.example.pruebainterfaztfg
+﻿package com.example.validationinterfaztfg
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
@@ -16,7 +16,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.pruebainterfaztfg.models.TipoVistaLibro
+import com.example.validationinterfaztfg.models.TipoVistaLibro
 
 @Composable
 fun MisLibros() {
@@ -129,5 +129,6 @@ fun MisLibros() {
         }
     }
 }
+
 
 

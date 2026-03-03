@@ -1,4 +1,4 @@
-package com.example.pruebainterfaztfg
+﻿package com.example.validationinterfaztfg
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity

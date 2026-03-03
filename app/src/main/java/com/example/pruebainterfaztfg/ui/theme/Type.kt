@@ -1,4 +1,4 @@
-package com.example.pruebainterfaztfg.ui.theme
+﻿package com.example.validationinterfaztfg.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

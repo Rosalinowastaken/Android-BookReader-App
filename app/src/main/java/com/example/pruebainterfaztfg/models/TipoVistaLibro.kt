@@ -1,4 +1,4 @@
-package com.example.pruebainterfaztfg.models
+﻿package com.example.validationinterfaztfg.models
 
 enum class TipoVistaLibro {
     VISTA_PUBLICACION,      // Imagen 1: Con nickname, opinión, sinopsis, favorito

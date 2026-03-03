@@ -1,4 +1,4 @@
-package com.example.pruebainterfaztfg.models
+﻿package com.example.validationinterfaztfg.models
 
 data class LibroAPI(
     val id: String,
@@ -9,3 +9,4 @@ data class LibroAPI(
     val opinion: String?,
     val sinopsis: String?
 )
+

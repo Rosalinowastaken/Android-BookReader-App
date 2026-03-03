@@ -1,6 +1,6 @@
-package com.example.pruebainterfaztfg.api
+﻿package com.example.validationinterfaztfg.api
 
-import com.example.pruebainterfaztfg.models.LibroAPI
+import com.example.validationinterfaztfg.models.LibroAPI
 
 // API Service simulado
 class LibroApiService {
@@ -36,3 +36,4 @@ class LibroApiService {
         )
     }
 }
+

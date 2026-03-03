@@ -1,4 +1,4 @@
-package com.example.pruebainterfaztfg
+﻿package com.example.validationinterfaztfg
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
@@ -12,7 +12,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
-import com.example.pruebainterfaztfg.models.TipoVistaLibro
+import com.example.validationinterfaztfg.models.TipoVistaLibro
 
 @Composable
 fun Busqueda() {
@@ -100,3 +100,4 @@ fun Busqueda() {
         }
     }
 }
+

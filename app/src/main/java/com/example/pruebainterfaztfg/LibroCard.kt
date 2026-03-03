@@ -1,4 +1,4 @@
-package com.example.pruebainterfaztfg
+﻿package com.example.validationinterfaztfg
 
 
 import androidx.compose.animation.AnimatedVisibility
@@ -28,7 +28,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import coil.compose.AsyncImage
-import com.example.pruebainterfaztfg.models.TipoVistaLibro
+import com.example.validationinterfaztfg.models.TipoVistaLibro
 
 @Composable
 fun LibroCard(
@@ -169,7 +169,7 @@ private fun VistaPublicacion(
             // Icono de Gafas (lectura)
             Icon(
                 painter = painterResource(
-                    id = if (libro.enLectura) R.drawable.leyendosiprueba else R.drawable.pruebalyendo
+                    id = if (libro.enLectura) R.drawable.leyendosivalidation else R.drawable.validationlyendo
                 ),
                 contentDescription = "Marcar como leyendo",
                 modifier = Modifier
@@ -404,7 +404,7 @@ private fun VistaGuardado(
             // Icono de Gafas (lectura)
             Icon(
                 painter = painterResource(
-                    id = if (libro.enLectura) R.drawable.leyendosiprueba else R.drawable.pruebalyendo
+                    id = if (libro.enLectura) R.drawable.leyendosivalidation else R.drawable.validationlyendo
                 ),
                 contentDescription = "Marcar como leyendo",
                 modifier = Modifier
